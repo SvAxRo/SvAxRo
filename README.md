@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SvAxRo
-- 👀 I’m interested in ESP8266 and ESP32
+- 👀 I’m interested in ESP32
 - 🌱 I’m currently learning to use github
 - 💞️ I’m looking to collaborate on house automation
 <!---
